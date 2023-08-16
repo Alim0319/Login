@@ -107,3 +107,14 @@ button {
 .register p a:hover {
   text-decoration: underline;
 }
+#loginContainer {
+  transition: background-color 0.5s ease-in-out;
+}
+
+.color-change {
+  background-color: lightblue;
+}
+
+.color-change {
+  background-color: orange;
+}
